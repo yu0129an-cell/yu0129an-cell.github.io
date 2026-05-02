@@ -11,7 +11,7 @@
   color-mix(in srgb, var(--secondary-color), black 10%) 51%,
   var(--secondary-color) 100%);
   /* You can customize the background image here */
-  --bg-image: url(/image/bz.jpg);
+  --bg-image: url(/image/bq.jpg);
 }
 
 body {
